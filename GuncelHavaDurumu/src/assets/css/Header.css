@@ -1,0 +1,20 @@
+.home-header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* HomePage için tam ekran */
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  .weather-header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: auto; /* WeatherPage için otomatik yüksekliği kullan */
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
